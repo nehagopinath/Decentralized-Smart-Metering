@@ -1,0 +1,5 @@
+2020.02.04-10:31:24.657[90m debug[39m [caliper] [local-client.js] 	Constructed a winston logger with the specified settings
+2020.02.04-10:31:24.872[32m info [39m [caliper] [bind] 	User-provided arguments for "npm install": "-g"
+2020.02.04-10:31:24.874[32m info [39m [caliper] [bind] 	Binding working directory: /Users/nehagopinath/Documents/WiSe19-20/Thesis/Decentralised_AI/new_code/decentralised-smart-metering
+2020.02.04-10:31:24.874[32m info [39m [caliper] [bind] 	Calling npm with: install -g grpc@1.14.2 fabric-ca-client@1.4.1 fabric-client@1.4.1 fabric-protos@2.0.0-snapshot.1 fabric-network@1.4.1
+2020.02.04-10:31:48.452[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
